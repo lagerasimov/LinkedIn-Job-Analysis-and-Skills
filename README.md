@@ -1,1 +1,3 @@
-# LinkedIn-Job-Analysis-and-Skills
+# Анализ данных вакансий и навыков LinkedIn
+Выявление популярных профессий, навыков и географического распределения в большом по размерам датасете
+Технологии: Python (Pandas, Matplotlib), Google Colab.
